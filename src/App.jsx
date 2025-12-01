@@ -1,3 +1,31 @@
+/*
+ * ============================================
+ * PEACE & QUIET - PATIENT PORTAL PROTOTYPE
+ * ============================================
+ *
+ * Copyright © 2025 Thriving Era Ltd
+ * All Rights Reserved.
+ *
+ * CONFIDENTIAL AND PROPRIETARY
+ *
+ * This code is the confidential and proprietary information of
+ * Thriving Era Ltd ("Confidential Information"). You shall not
+ * disclose such Confidential Information and shall use it only
+ * in accordance with the terms of the agreement under which this
+ * code was provided.
+ *
+ * Unauthorized copying, modification, distribution, or use of this
+ * software, via any medium, is strictly prohibited without the
+ * express written permission of Thriving Era Ltd.
+ *
+ * Created by: Rochelle, Thriving Era Ltd
+ * Project: Peace & Quiet Patient Portal
+ * Date: December 2025
+ * Purpose: Proposal prototype for client evaluation
+ *
+ * ============================================
+ */
+
 import React, { useState, useEffect } from 'react';
 
 // ============================================

@@ -1,0 +1,13 @@
+# Auto-generated pre-commit config for react project
+# Regenerate with: python ~/.claude/pre-commit-setup.py /Users/rocha/peace-quiet
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-merge-conflict
+      - id: check-yaml
+      - id: check-json
+        exclude: 'package-lock.json'
